@@ -21,3 +21,7 @@ git clone https://github.com/liubai01/Learning-from-data-ex3.2.git
 cd Learning-from-data-ex3.2/
 python main.py
 ```
+
+## Observation
+
+The pocket PLA algorithm seems to overfit the hand-craft 'noise'.
